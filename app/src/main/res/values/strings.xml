@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExplicitIntentExample</string>
+    <string name="main_name">Main</string>
+    <string name="secondary_name">Secondary</string>
+</resources>
